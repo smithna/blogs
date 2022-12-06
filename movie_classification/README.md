@@ -1,6 +1,6 @@
 # Movie classification
 
-This repo contains content from the December 6, 2022 [Kansas City Graph Data Science Meetup](https://www.meetup.com/kansas-city-graph-databases-meetup-group/events/290004971/).
+This repo contains content from the December 6, 2022 [Kansas City Graph Data Science Meetup](https://www.meetup.com/kansas-city-graph-databases-meetup-group/events/290004971/). A link to video of the meeting will be shared on the Meetup event when it becomes available.
 
 ## Setting up the data
 
